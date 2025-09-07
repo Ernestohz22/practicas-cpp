@@ -14,7 +14,7 @@ Este repositorio contiene prácticas, ejercicios y funciones en C++ realizados d
 ## Organización
 
 - Todos los archivos `.cpp` están dentro de este mismo repositorio.
-- Cada archivo representa una práctica independiente, excepto `funcion4y5.cpp`, que combina dos ejercicios.
+- Cada archivo representa una práctica independiente
 - El repositorio se actualizará conforme se agreguen nuevas prácticas.
   
 ## Autor
